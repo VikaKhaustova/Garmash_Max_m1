@@ -1,0 +1,21 @@
+   body{
+   font-family: sans-serif;
+   }
+   mani{
+   background-color:blue ;    
+   }
+   h1{
+   text-align:center ; 
+   background-color:pink ;
+   margin:30px ;
+   }
+   p{
+   text-align:center ; 
+   padding:20px ;
+   background-color:red ;
+   font-size:20px ;
+   color:blue ;
+   }
+   ul{
+   background-color: yellow;
+   }
